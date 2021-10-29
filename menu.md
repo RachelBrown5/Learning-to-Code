@@ -3,8 +3,8 @@
 <h2>Navigation</h2>
 
 <ul>
-  <li><a href="helpful-repos.md"/>Helpful Repo</li>
-  <li><a href="helpful-links.md"/>Helpful Links</li>
-  <li><a href="community.md"/>Community</li>
-  <li><a href="text-editors.md"/>Text Editors</li>
+  <li><a href="pages/helpful-repos.md"/>Helpful Repo</li>
+  <li><a href="pages/helpful-links.md"/>Helpful Links</li>
+  <li><a href="pages/community.md"/>Community</li>
+  <li><a href="pages/text-editors.md"/>Text Editors</li>
 </ul>
