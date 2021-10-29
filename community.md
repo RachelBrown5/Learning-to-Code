@@ -13,7 +13,7 @@ Community - Facebook Groups
         <a href="https://www.facebook.com/ilp18/" target="blank">I Love Programming</a>
       </li>
     </ol>
-    <summary>Community - Forums</summary>
+ Community - Forums
     <ol>
       <li>
         <a href="https://www.freecodecamp.org/forum/" target="blank">FreeCodeCamp</a>
